@@ -16,3 +16,6 @@ This is because we are trying to teach when is the right time to use these data 
 | **example_exrecise_1** |   vector + pair + deque  |
 | **example_exrecise_2** |   map                    |
 | **example_exrecise_3** |   bitset                 |
+| **example_exrecise_4** |   set                    |
+| **example_exrecise_5** |   stack                  |
+| **example_exrecise_6** |   queue                  |
