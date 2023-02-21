@@ -10,6 +10,7 @@ This is because we are trying to teach when is the right time to use these data 
 --> <stl_name>.cpp
 
 ### There are example exercises asociated with the lessons too
+
 |   **example_exrecise_1**   |   vector + pair + deque  |
 |   **example_exrecise_2**   |   map                    |
 |   **example_exrecise_3**   |   bitset                 |
