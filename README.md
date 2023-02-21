@@ -1,2 +1,2 @@
 # FIRST LECTURE
-### Cpp STL used in competitive Programming
+### C++ STL used in competitive Programming
