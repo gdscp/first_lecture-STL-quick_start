@@ -2,6 +2,7 @@
 #include <iostream>
 #include <utility>
 #include <vector>
+#include <algorithm>
 using namespace std;
 void solve();
 int main()
